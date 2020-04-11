@@ -1,3 +1,14 @@
+/*****************************************************
+ * Developer: Mohamed Sobhy Fouda
+ * File: TripleX.cpp
+ * Description: 
+    Terminal game. you need to help your secret agents
+     to extract X files. Guess the right code combina-
+     tion to crack extract encrypted files. Work hard 
+     to pass all level difficulities to extraxt all
+     filess successfully.
+*****************************************************/
+
 #include <iostream>
 #include <ctime>
 
